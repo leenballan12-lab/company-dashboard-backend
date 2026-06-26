@@ -140,3 +140,4 @@ C:\test advweb\CompanySystemAPI\obj\Debug\net9.0\ref\CompanySystemAPI.dll
 C:\test advweb\CompanySystemAPI\bin\Debug\net9.0\BCrypt-Net-Next.dll
 C:\test advweb\CompanySystemAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\test advweb\CompanySystemAPI\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\test advweb\CompanySystemAPI\obj\Debug\net9.0\CompanySystemAPI.sourcelink.json
